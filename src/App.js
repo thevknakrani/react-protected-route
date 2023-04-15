@@ -9,7 +9,6 @@ import AdminPanel from "./components/AdminPanel";
 import SuperAdminPanel from "./components/SuperAdminPanel";
 
 function App() {
-  // dadasd
   return (
     <div className="App">
       <Routes>
